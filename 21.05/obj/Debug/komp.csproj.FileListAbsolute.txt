@@ -1,0 +1,15 @@
+C:\Users\Юля\source\repos\komp\bin\Debug\komp.exe.config
+C:\Users\Юля\source\repos\komp\bin\Debug\komp.exe
+C:\Users\Юля\source\repos\komp\bin\Debug\komp.pdb
+C:\Users\Юля\source\repos\komp\obj\Debug\komp.csprojAssemblyReference.cache
+C:\Users\Юля\source\repos\komp\obj\Debug\MainWindow.g.cs
+C:\Users\Юля\source\repos\komp\obj\Debug\App.g.cs
+C:\Users\Юля\source\repos\komp\obj\Debug\komp_MarkupCompile.cache
+C:\Users\Юля\source\repos\komp\obj\Debug\komp_MarkupCompile.lref
+C:\Users\Юля\source\repos\komp\obj\Debug\MainWindow.baml
+C:\Users\Юля\source\repos\komp\obj\Debug\komp.g.resources
+C:\Users\Юля\source\repos\komp\obj\Debug\komp.Properties.Resources.resources
+C:\Users\Юля\source\repos\komp\obj\Debug\komp.csproj.GenerateResource.cache
+C:\Users\Юля\source\repos\komp\obj\Debug\komp.csproj.CoreCompileInputs.cache
+C:\Users\Юля\source\repos\komp\obj\Debug\komp.exe
+C:\Users\Юля\source\repos\komp\obj\Debug\komp.pdb
